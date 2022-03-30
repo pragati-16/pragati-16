@@ -6,4 +6,6 @@
 - ⚡ Fun fact: Eat sleep study repeat.
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pragati-16&theme=dark)](https://git.io/streak-stats)
+              
+              
+              [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pragati-16&theme=dark)](https://git.io/streak-stats)
