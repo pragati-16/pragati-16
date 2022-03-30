@@ -1,14 +1,14 @@
-### Hi there 👋
-- 🌱 I’m currently learning Data Structures in Java and Backend Devolpment.
-- 🤔 I’m looking for help with Nodejs.
-- 💬 Ask me anything about Data Structures.
-- 📫 How to reach me: pragati0994.cse19@chitkara.edu.in
-- ⚡ Fun fact: Eat sleep study repeat.
--->
+<h1 align="center">Hi 👋, I'm Pragati Gupta</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-16&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-16" /> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/pragati-gupta-6998941a9/" target="blank"><img src="https://img.shields.io/badge/Linkedin-Pragati%20Gupta-blue?style=for-the-badge&logo=linkedin" alt="Pragati Gupta" /></a> </p>
 
-              
-              
- 
+# 🌱 I’m currently learning Data Structures in Java and Backend Devolpment.
+# 🤔 I’m looking for help with Nodejs.
+# 💬 Ask me anything about Data Structures.
+# 📫 How to reach me: pragati0994.cse19@chitkara.edu.in
+# ⚡ Fun fact: Eat sleep study repeat.
+          
+           
  <h3 align="left">Connect with me:<img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px"/></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pragati-gupta-6998941a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragati-gupta-6998941a9/" height="30" width="40" /></a>
