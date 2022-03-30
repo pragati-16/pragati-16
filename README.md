@@ -6,7 +6,7 @@
 ### 🤔 I’m looking for help with Nodejs.
 ### 💬 Ask me anything about Data Structures.
 ### 📫 How to reach me: pragati0994.cse19@chitkara.edu.in
-###⚡ Fun fact: Eat sleep study repeat.
+### ⚡ Fun fact: Eat sleep study repeat.
           
            
  <h3 align="left">Connect with me:<img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px"/></h3>
